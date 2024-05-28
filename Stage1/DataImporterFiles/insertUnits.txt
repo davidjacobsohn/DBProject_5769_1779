@@ -1,0 +1,400 @@
+1,Golani,Tel Aviv
+2,Givati,Jerusalem
+3,Paratroopers,Haifa
+4,Artillery,Beersheba
+5,Armored,Eilat
+6,Navy,Ashdod
+7,Air Force,Netanya
+8,Intelligence,Hertzliya
+9,Home Front Command,Ra'anana
+10,Medical Corps,Petah Tikva
+11,Golani,Holon
+12,Givati,Bat Yam
+13,Paratroopers,Rishon LeZion
+14,Artillery,Ashkelon
+15,Armored,Kiryat Shmona
+16,Navy,Afula
+17,Air Force,Nazareth
+18,Intelligence,Dimona
+19,Home Front Command,Modiin
+20,Medical Corps,Kfar Saba
+21,Golani,Tel Aviv
+22,Givati,Jerusalem
+23,Paratroopers,Haifa
+24,Artillery,Beersheba
+25,Armored,Eilat
+26,Navy,Ashdod
+27,Air Force,Netanya
+28,Intelligence,Hertzliya
+29,Home Front Command,Ra'anana
+30,Medical Corps,Petah Tikva
+31,Golani,Holon
+32,Givati,Bat Yam
+33,Paratroopers,Rishon LeZion
+34,Artillery,Ashkelon
+35,Armored,Kiryat Shmona
+36,Navy,Afula
+37,Air Force,Nazareth
+38,Intelligence,Dimona
+39,Home Front Command,Modiin
+40,Medical Corps,Kfar Saba
+41,Golani,Tel Aviv
+42,Givati,Jerusalem
+43,Paratroopers,Haifa
+44,Artillery,Beersheba
+45,Armored,Eilat
+46,Navy,Ashdod
+47,Air Force,Netanya
+48,Intelligence,Hertzliya
+49,Home Front Command,Ra'anana
+50,Medical Corps,Petah Tikva
+51,Golani,Holon
+52,Givati,Bat Yam
+53,Paratroopers,Rishon LeZion
+54,Artillery,Ashkelon
+55,Armored,Kiryat Shmona
+56,Navy,Afula
+57,Air Force,Nazareth
+58,Intelligence,Dimona
+59,Home Front Command,Modiin
+60,Medical Corps,Kfar Saba
+61,Golani,Tel Aviv
+62,Givati,Jerusalem
+63,Paratroopers,Haifa
+64,Artillery,Beersheba
+65,Armored,Eilat
+66,Navy,Ashdod
+67,Air Force,Netanya
+68,Intelligence,Hertzliya
+69,Home Front Command,Ra'anana
+70,Medical Corps,Petah Tikva
+71,Golani,Holon
+72,Givati,Bat Yam
+73,Paratroopers,Rishon LeZion
+74,Artillery,Ashkelon
+75,Armored,Kiryat Shmona
+76,Navy,Afula
+77,Air Force,Nazareth
+78,Intelligence,Dimona
+79,Home Front Command,Modiin
+80,Medical Corps,Kfar Saba
+81,Golani,Tel Aviv
+82,Givati,Jerusalem
+83,Paratroopers,Haifa
+84,Artillery,Beersheba
+85,Armored,Eilat
+86,Navy,Ashdod
+87,Air Force,Netanya
+88,Intelligence,Hertzliya
+89,Home Front Command,Ra'anana
+90,Medical Corps,Petah Tikva
+91,Golani,Holon
+92,Givati,Bat Yam
+93,Paratroopers,Rishon LeZion
+94,Artillery,Ashkelon
+95,Armored,Kiryat Shmona
+96,Navy,Afula
+97,Air Force,Nazareth
+98,Intelligence,Dimona
+99,Home Front Command,Modiin
+100,Medical Corps,Kfar Saba
+101,Golani,Tel Aviv
+102,Givati,Jerusalem
+103,Paratroopers,Haifa
+104,Artillery,Beersheba
+105,Armored,Eilat
+106,Navy,Ashdod
+107,Air Force,Netanya
+108,Intelligence,Hertzliya
+109,Home Front Command,Ra'anana
+110,Medical Corps,Petah Tikva
+111,Golani,Holon
+112,Givati,Bat Yam
+113,Paratroopers,Rishon LeZion
+114,Artillery,Ashkelon
+115,Armored,Kiryat Shmona
+116,Navy,Afula
+117,Air Force,Nazareth
+118,Intelligence,Dimona
+119,Home Front Command,Modiin
+120,Medical Corps,Kfar Saba
+121,Golani,Tel Aviv
+122,Givati,Jerusalem
+123,Paratroopers,Haifa
+124,Artillery,Beersheba
+125,Armored,Eilat
+126,Navy,Ashdod
+127,Air Force,Netanya
+128,Intelligence,Hertzliya
+129,Home Front Command,Ra'anana
+130,Medical Corps,Petah Tikva
+131,Golani,Holon
+132,Givati,Bat Yam
+133,Paratroopers,Rishon LeZion
+134,Artillery,Ashkelon
+135,Armored,Kiryat Shmona
+136,Navy,Afula
+137,Air Force,Nazareth
+138,Intelligence,Dimona
+139,Home Front Command,Modiin
+140,Medical Corps,Kfar Saba
+141,Golani,Tel Aviv
+142,Givati,Jerusalem
+143,Paratroopers,Haifa
+144,Artillery,Beersheba
+145,Armored,Eilat
+146,Navy,Ashdod
+147,Air Force,Netanya
+148,Intelligence,Hertzliya
+149,Home Front Command,Ra'anana
+150,Medical Corps,Petah Tikva
+151,Golani,Holon
+152,Givati,Bat Yam
+153,Paratroopers,Rishon LeZion
+154,Artillery,Ashkelon
+155,Armored,Kiryat Shmona
+156,Navy,Afula
+157,Air Force,Nazareth
+158,Intelligence,Dimona
+159,Home Front Command,Modiin
+160,Medical Corps,Kfar Saba
+161,Golani,Tel Aviv
+162,Givati,Jerusalem
+163,Paratroopers,Haifa
+164,Artillery,Beersheba
+165,Armored,Eilat
+166,Navy,Ashdod
+167,Air Force,Netanya
+168,Intelligence,Hertzliya
+169,Home Front Command,Ra'anana
+170,Medical Corps,Petah Tikva
+171,Golani,Holon
+172,Givati,Bat Yam
+173,Paratroopers,Rishon LeZion
+174,Artillery,Ashkelon
+175,Armored,Kiryat Shmona
+176,Navy,Afula
+177,Air Force,Nazareth
+178,Intelligence,Dimona
+179,Home Front Command,Modiin
+180,Medical Corps,Kfar Saba
+181,Golani,Tel Aviv
+182,Givati,Jerusalem
+183,Paratroopers,Haifa
+184,Artillery,Beersheba
+185,Armored,Eilat
+186,Navy,Ashdod
+187,Air Force,Netanya
+188,Intelligence,Hertzliya
+189,Home Front Command,Ra'anana
+190,Medical Corps,Petah Tikva
+191,Golani,Holon
+192,Givati,Bat Yam
+193,Paratroopers,Rishon LeZion
+194,Artillery,Ashkelon
+195,Armored,Kiryat Shmona
+196,Navy,Afula
+197,Air Force,Nazareth
+198,Intelligence,Dimona
+199,Home Front Command,Modiin
+200,Medical Corps,Kfar Saba
+201,Golani,Tel Aviv
+202,Givati,Jerusalem
+203,Paratroopers,Haifa
+204,Artillery,Beersheba
+205,Armored,Eilat
+206,Navy,Ashdod
+207,Air Force,Netanya
+208,Intelligence,Hertzliya
+209,Home Front Command,Ra'anana
+210,Medical Corps,Petah Tikva
+211,Golani,Holon
+212,Givati,Bat Yam
+213,Paratroopers,Rishon LeZion
+214,Artillery,Ashkelon
+215,Armored,Kiryat Shmona
+216,Navy,Afula
+217,Air Force,Nazareth
+218,Intelligence,Dimona
+219,Home Front Command,Modiin
+220,Medical Corps,Kfar Saba
+221,Golani,Tel Aviv
+222,Givati,Jerusalem
+223,Paratroopers,Haifa
+224,Artillery,Beersheba
+225,Armored,Eilat
+226,Navy,Ashdod
+227,Air Force,Netanya
+228,Intelligence,Hertzliya
+229,Home Front Command,Ra'anana
+230,Medical Corps,Petah Tikva
+231,Golani,Holon
+232,Givati,Bat Yam
+233,Paratroopers,Rishon LeZion
+234,Artillery,Ashkelon
+235,Armored,Kiryat Shmona
+236,Navy,Afula
+237,Air Force,Nazareth
+238,Intelligence,Dimona
+239,Home Front Command,Modiin
+240,Medical Corps,Kfar Saba
+241,Golani,Tel Aviv
+242,Givati,Jerusalem
+243,Paratroopers,Haifa
+244,Artillery,Beersheba
+245,Armored,Eilat
+246,Navy,Ashdod
+247,Air Force,Netanya
+248,Intelligence,Hertzliya
+249,Home Front Command,Ra'anana
+250,Medical Corps,Petah Tikva
+251,Golani,Holon
+252,Givati,Bat Yam
+253,Paratroopers,Rishon LeZion
+254,Artillery,Ashkelon
+255,Armored,Kiryat Shmona
+256,Navy,Afula
+257,Air Force,Nazareth
+258,Intelligence,Dimona
+259,Home Front Command,Modiin
+260,Medical Corps,Kfar Saba
+261,Golani,Tel Aviv
+262,Givati,Jerusalem
+263,Paratroopers,Haifa
+264,Artillery,Beersheba
+265,Armored,Eilat
+266,Navy,Ashdod
+267,Air Force,Netanya
+268,Intelligence,Hertzliya
+269,Home Front Command,Ra'anana
+270,Medical Corps,Petah Tikva
+271,Golani,Holon
+272,Givati,Bat Yam
+273,Paratroopers,Rishon LeZion
+274,Artillery,Ashkelon
+275,Armored,Kiryat Shmona
+276,Navy,Afula
+277,Air Force,Nazareth
+278,Intelligence,Dimona
+279,Home Front Command,Modiin
+280,Medical Corps,Kfar Saba
+281,Golani,Tel Aviv
+282,Givati,Jerusalem
+283,Paratroopers,Haifa
+284,Artillery,Beersheba
+285,Armored,Eilat
+286,Navy,Ashdod
+287,Air Force,Netanya
+288,Intelligence,Hertzliya
+289,Home Front Command,Ra'anana
+290,Medical Corps,Petah Tikva
+291,Golani,Holon
+292,Givati,Bat Yam
+293,Paratroopers,Rishon LeZion
+294,Artillery,Ashkelon
+295,Armored,Kiryat Shmona
+296,Navy,Afula
+297,Air Force,Nazareth
+298,Intelligence,Dimona
+299,Home Front Command,Modiin
+300,Medical Corps,Kfar Saba
+301,Golani,Tel Aviv
+302,Givati,Jerusalem
+303,Paratroopers,Haifa
+304,Artillery,Beersheba
+305,Armored,Eilat
+306,Navy,Ashdod
+307,Air Force,Netanya
+308,Intelligence,Hertzliya
+309,Home Front Command,Ra'anana
+310,Medical Corps,Petah Tikva
+311,Golani,Holon
+312,Givati,Bat Yam
+313,Paratroopers,Rishon LeZion
+314,Artillery,Ashkelon
+315,Armored,Kiryat Shmona
+316,Navy,Afula
+317,Air Force,Nazareth
+318,Intelligence,Dimona
+319,Home Front Command,Modiin
+320,Medical Corps,Kfar Saba
+321,Golani,Tel Aviv
+322,Givati,Jerusalem
+323,Paratroopers,Haifa
+324,Artillery,Beersheba
+325,Armored,Eilat
+326,Navy,Ashdod
+327,Air Force,Netanya
+328,Intelligence,Hertzliya
+329,Home Front Command,Ra'anana
+330,Medical Corps,Petah Tikva
+331,Golani,Holon
+332,Givati,Bat Yam
+333,Paratroopers,Rishon LeZion
+334,Artillery,Ashkelon
+335,Armored,Kiryat Shmona
+336,Navy,Afula
+337,Air Force,Nazareth
+338,Intelligence,Dimona
+339,Home Front Command,Modiin
+340,Medical Corps,Kfar Saba
+341,Golani,Tel Aviv
+342,Givati,Jerusalem
+343,Paratroopers,Haifa
+344,Artillery,Beersheba
+345,Armored,Eilat
+346,Navy,Ashdod
+347,Air Force,Netanya
+348,Intelligence,Hertzliya
+349,Home Front Command,Ra'anana
+350,Medical Corps,Petah Tikva
+351,Golani,Holon
+352,Givati,Bat Yam
+353,Paratroopers,Rishon LeZion
+354,Artillery,Ashkelon
+355,Armored,Kiryat Shmona
+356,Navy,Afula
+357,Air Force,Nazareth
+358,Intelligence,Dimona
+359,Home Front Command,Modiin
+360,Medical Corps,Kfar Saba
+361,Golani,Tel Aviv
+362,Givati,Jerusalem
+363,Paratroopers,Haifa
+364,Artillery,Beersheba
+365,Armored,Eilat
+366,Navy,Ashdod
+367,Air Force,Netanya
+368,Intelligence,Hertzliya
+369,Home Front Command,Ra'anana
+370,Medical Corps,Petah Tikva
+371,Golani,Holon
+372,Givati,Bat Yam
+373,Paratroopers,Rishon LeZion
+374,Artillery,Ashkelon
+375,Armored,Kiryat Shmona
+376,Navy,Afula
+377,Air Force,Nazareth
+378,Intelligence,Dimona
+379,Home Front Command,Modiin
+380,Medical Corps,Kfar Saba
+381,Golani,Tel Aviv
+382,Givati,Jerusalem
+383,Paratroopers,Haifa
+384,Artillery,Beersheba
+385,Armored,Eilat
+386,Navy,Ashdod
+387,Air Force,Netanya
+388,Intelligence,Hertzliya
+389,Home Front Command,Ra'anana
+390,Medical Corps,Petah Tikva
+391,Golani,Holon
+392,Givati,Bat Yam
+393,Paratroopers,Rishon LeZion
+394,Artillery,Ashkelon
+395,Armored,Kiryat Shmona
+396,Navy,Afula
+397,Air Force,Nazareth
+398,Intelligence,Dimona
+399,Home Front Command,Modiin
+400,Medical Corps,Kfar Saba
