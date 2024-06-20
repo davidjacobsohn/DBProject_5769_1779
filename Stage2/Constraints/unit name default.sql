@@ -1,0 +1,2 @@
+ALTER TABLE Units
+MODIFY Unit_name_ VARCHAR2(100) DEFAULT 'Unknown';
